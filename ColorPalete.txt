@@ -1,0 +1,11 @@
+website colors
+
+PINK 		#ff00ae
+
+BLUE 		#00e4ff
+
+YELLOW  	#fcff00
+
+GREEN 		#baff00
+
+ORANGE 		#ff7200
